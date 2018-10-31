@@ -1,6 +1,7 @@
-# Project Title
+# Python Machine Learning Module 
 
-One Paragraph of project description goes here
+Welcome to Python Machine Learning Module.
+You can make use of materials shared here to expedite your own machine learning project!
 
 ## Getting Started
 
