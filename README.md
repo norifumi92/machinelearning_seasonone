@@ -9,55 +9,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+The following libraries are required to run the python scripts.
 ```
-Give examples
+conda install -c conda-forge pydotplus 
+conda install graphviz
 ```
+## Sample Code 1: Predict Animal Class of Pitviper
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Sample Code 1: Panda Dataframe Exercise
-
-Explain how to run the automated tests for this system
-
-## Sample Code 2: Data Visualization
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Have you seen pitviper?
+Do you know what kind of animal is it?
+Using animaldata.csv, try to predict the animal class of pitviper.
+More details are given in predictanimaltype.txt.
 
 ## Built With
 
