@@ -1,7 +1,7 @@
 # Python Machine Learning Module 
 
 Welcome to Python Machine Learning Module.
-You can make use of materials shared here to expedite your own machine learning project!
+You can make use of the materials shared here to expedite your own machine learning project!
 
 ## Getting Started
 
@@ -33,9 +33,11 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Sample Code 1: Panda Dataframe Exercise
 
 Explain how to run the automated tests for this system
+
+## Sample Code 2: Data Visualization
 
 ### Break down into end to end tests
 
